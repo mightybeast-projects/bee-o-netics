@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acf565dc44a46634f88ac328116edf0b, type: 3}
+  m_Name: "\u03A9"
+  m_EditorClassIdentifier: 
+  bee:
+    beeType: 0
+    activeSpecies: {fileID: 11400000, guid: 36f54c2d978b25f449585b0364f80a0e, type: 2}
+    inactiveSpecies: {fileID: 11400000, guid: 36f54c2d978b25f449585b0364f80a0e, type: 2}
+    activeTraits:
+    - {fileID: 11400000, guid: e1e237fd2904ea348985f4c2aec6abc2, type: 2}
+    - {fileID: 11400000, guid: 0130a70e898e99d4eb091bfe9ed57182, type: 2}
+    - {fileID: 11400000, guid: 84903ea538b25f94ea48d812a81fe9dd, type: 2}
+    inactiveTraits:
+    - {fileID: 11400000, guid: e1e237fd2904ea348985f4c2aec6abc2, type: 2}
+    - {fileID: 11400000, guid: 0130a70e898e99d4eb091bfe9ed57182, type: 2}
+    - {fileID: 11400000, guid: 84903ea538b25f94ea48d812a81fe9dd, type: 2}

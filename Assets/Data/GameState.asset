@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2050885b5c7081b4fbba2c6d30493d1c, type: 3}
+  m_Name: GameState
+  m_EditorClassIdentifier: 
+  beeButtonsStates:
+  - {fileID: 11400000, guid: e8077b44b6365b744a7d8b8283307c1f, type: 2}
+  - {fileID: 11400000, guid: 0c276593263b9e74cb7fdb6f11f0247f, type: 2}
+  - {fileID: 11400000, guid: 75109520f066ff040b652d35ea4a7dcb, type: 2}
+  - {fileID: 11400000, guid: 451db05eb3d4caa47a45db7c9b4799c7, type: 2}
+  playerLevel: {fileID: 11400000, guid: cb3bae23a86ad674f94dacf58e04b0d2, type: 2}
+  honey: {fileID: 11400000, guid: d943f6d2fe275de47bfc382c8863dfc1, type: 2}
+  lastAddedHintIndex: {fileID: 11400000, guid: f93d78373ce8be040ba610b7839e0075, type: 2}
+  compendiumState: {fileID: 11400000, guid: 6979f6a67400d714da024e4ba6d06650, type: 2}
+  inventory: {fileID: 11400000, guid: 91dc0769f64f3644bad661ac3a5a7b5f, type: 2}

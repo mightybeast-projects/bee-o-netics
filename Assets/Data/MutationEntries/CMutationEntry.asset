@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bd50287ed239f44ab87db86b3c40121, type: 3}
+  m_Name: CMutationEntry
+  m_EditorClassIdentifier: 
+  species:
+  - {fileID: 11400000, guid: 43b22dc9c73c55d47bcb834274a16266, type: 2}
+  - {fileID: 11400000, guid: 1a9bb746f6d264d4e973d3cb49e84bee, type: 2}
+  mutationResultData: {fileID: 11400000, guid: 4a2e1848c2a6cfc46949f8b5a129d1ce, type: 2}
+  mutationChance: 100
